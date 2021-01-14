@@ -7,4 +7,3 @@ The below sample projects are part of RPA Blue prism - Exmaples developed by Sur
 4 - PDF File
 5 - Citrix Demo
 6 - Handle Popup Screens
-Testing the new Branch
