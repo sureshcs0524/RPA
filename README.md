@@ -6,3 +6,4 @@ The below sample projects are part of RPA Blue prism - Exmaples developed by Sur
 3 - Surface Automation 
 4 - PDF File
 5 - Citrix Demo
+6 - Handle Popup Screens
